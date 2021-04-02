@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src=https://img.shields.io/badge/<'hey'>-<'yellow'> />
+<img src=https://img.shields.io/badge/Linkedin-link-brightgreen />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabrinadelpache&count_private=true&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrinadelpache)](https://github.com/anuraghazra/github-readme-stats)
