@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 <!--
 **Sabrinadelpache/Sabrinadelpache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,67 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p>
+  Meu nome é Sabrina, tenho 18 anos e sou de Brasília. Me apaixonei pelo área da Tecnologia em 2020, sua capacidade de inovação e impacto no cotidiano de cada pessoa existente no mundo, me deixou maravilhada e ansiosa por fazer parte do grupo de pessoas que ajudam a moldar o mundo em que vivemos. Desde então, ingressei na faculdade de :computer:Sistemas para internet e no curso de aceleramento de Desenvolvedores Full-Stack na Trybe.
+</p>
+<p>
+  Além disso, sou muito curiosa e eclética, gosto de aprender desde coisa como, desdobramentos da semana de arte moderna, no Brasil até a formação de partículas virtuais ao redor de buracos negros:cyclone:. Tenho uma paixão imensa por :snake:animais e :seedling:plantas e busco sempre aprender com o que está a minha volta para me tornar uma pessoa melhor.
+</p>
+</br>
+<ul>
+  <li>
+    🔭 Tenho como objetivo me tornar uma desenvolvedora Full-Stack plena.
+  </li>
+  <li>
+    🌱  Atualmente estudo React, com algumas blibiotecas auxiliar como React Router e Redux.
+  </li>
+  <li>
+    😄 O meu hobby preferido é assistir filmes e séries com a minha mãe:woman: e minha cachorra:dog:, além disso gosto de fazer :muscle:yoga, tentar meditar, ler :books:livros e :video game:jogar MOBA's.
+  </li>
+ </ul>
+<p>
+  <span>
+    Você pode me chamar para uma conversa!!  
+    <a href='https://www.linkedin.com/in/sabrinadelpache/'>
+      <img src='https://img.shields.io/badge/-Linkedin-blue'>
+    </a>
+     Ou me envie um email:
+       <a href='mailto:sasa2605.alves@gmail.com'>
+         <img src='https://img.shields.io/badge/-sasa2605.alves%40gmail.com-red'>
+     </a>
+    </p>
+  </span>
+</p>
+</br>
+</br>
+<p>Acompanhe um pouco da minha jornada na Trybe ou veja meu portiólio:</p>
+  <span align='center'>
+    <a href='https://github.com/Sabrinadelpache/trybeExercises'>
+      <img src='https://img.shields.io/badge/-Trybe-brightgreen' />
+    </a>
+    <a href='https://github.com/Sabrinadelpache/Portfolio' />
+     <img src='https://img.shields.io/badge/-Portifólio-white' />
+    </a>
+  </span>
+</br>
+</br>
+<p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrinadelpache)](https://github.com/anuraghazra/github-readme-stats)
+ </p>
+</br>
+<p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabrinadelpache&count_private=true&show_icons=true&theme=radical)
+</p>
+</br>
+<p>
+  Tenologias que tenho conhecimento vivência diária::rocket:
+  <span>
+    <img src='https://img.shields.io/badge/-JavaScript-yellow' />
+    <img src='https://img.shields.io/badge/-React-red' />
+    <img src='https://img.shields.io/badge/-Redux-violet'>
+    <img src='https://img.shields.io/badge/-Jest-green'>
+    <img src='https://img.shields.io/badge/-RTL-red'>
+    <img src='https://img.shields.io/badge/-Github-white'>
+    <img src='https://img.shields.io/badge/-Linux-black'>
+  </span>
+</p>
