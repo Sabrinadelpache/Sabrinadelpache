@@ -60,11 +60,11 @@ Here are some ideas to get you started:
 </br>
 </br>
 <p>
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrinadelpache)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/Sabrinadelpache)](https://github.com/anuraghazra/github-readme-stats)
  </p>
 </br>
 <p>
-(https://github-readme-stats.vercel.app/api?username=Sabrinadelpache&count_private=true&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api/Sabrinadelpache&count_private=true&show_icons=true&theme=radical)
 </p>
 </br>
 <p>
