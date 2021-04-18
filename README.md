@@ -1,4 +1,4 @@
-### Olá 👋
+### <h1>Olá 👋</h1>
 
 <!--
 **Sabrinadelpache/Sabrinadelpache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -60,15 +60,16 @@ Here are some ideas to get you started:
 </br>
 </br>
 <p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrinadelpache)](https://github.com/anuraghazra/github-readme-stats)
- </p>
-</br>
-<p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabrinadelpache&count_private=true&show_icons=true&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sabrinadelpache&show_icons=true&theme=cobalt" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrinadelpache)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
 </p>
 </br>
 <p>
-  Tenologias que tenho conhecimento vivência diária::rocket:
+  Tenologias que tenho vivência diária::rocket:
   <span>
     <img src='https://img.shields.io/badge/-JavaScript-yellow' />
     <img src='https://img.shields.io/badge/-React-red' />
