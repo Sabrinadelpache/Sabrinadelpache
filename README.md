@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     🌱  Atualmente estudo React, com algumas blibiotecas auxiliar como React Router e Redux.
   </li>
   <li>
-    😄 O meu hobby preferido é assistir filmes e séries com a minha mãe:woman: e minha cachorra:dog:, além disso gosto de fazer :muscle:yoga, tentar meditar, ler :books:livros e :video games:jogar MOBA's.
+    😄 O meu hobby preferido é assistir filmes e séries com a minha mãe:woman: e minha cachorra:dog:, além disso gosto de fazer :muscle:yoga, tentar meditar, ler :books:livros e :video_game:jogar MOBA's.
   </li>
  </ul>
 <p>
