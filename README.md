@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  Meu nome é Sabrina, tenho 18 anos e sou de Brasília. Me apaixonei pelo área da Tecnologia em 2020, sua capacidade de inovação e impacto no cotidiano de cada pessoa existente no mundo, me deixou maravilhada e ansiosa por fazer parte do grupo de pessoas que ajudam a moldar o mundo em que vivemos. Desde então, ingressei na faculdade de :computer:Sistemas para internet e no curso de aceleramento de Desenvolvedores Full-Stack na Trybe.
+  Meu nome é Sabrina, tenho 19 anos e sou de Brasília. Me apaixonei pelo área da Tecnologia em 2020, sua capacidade de inovação e impacto no cotidiano de cada pessoa existente no mundo, me deixou maravilhada e ansiosa por fazer parte do grupo de pessoas que ajudam a moldar o mundo em que vivemos. Desde então, ingressei na faculdade de :computer:Sistemas para internet e no curso de aceleramento de Desenvolvedores Full-Stack na Trybe.
 </p>
 <p>
   Além disso, sou muito curiosa e eclética, gosto de aprender desde coisa como, desdobramentos da semana de arte moderna, no Brasil até a formação de partículas virtuais ao redor de buracos negros:cyclone:. Tenho uma paixão imensa por :snake:animais e :seedling:plantas e busco sempre aprender com o que está a minha volta para me tornar uma pessoa melhor.
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     🌱  Atualmente estudo React, com algumas blibiotecas auxiliar como React Router e Redux.
   </li>
   <li>
-    😄 O meu hobby preferido é assistir filmes e séries com a minha mãe:woman: e minha cachorra:dog:, além disso gosto de fazer :muscle:yoga, tentar meditar, ler :books:livros e :video game:jogar MOBA's.
+    😄 O meu hobby preferido é assistir filmes e séries com a minha mãe:woman: e minha cachorra:dog:, além disso gosto de fazer :muscle:yoga, tentar meditar, ler :books:livros e :video games:jogar MOBA's.
   </li>
  </ul>
 <p>
