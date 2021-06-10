@@ -48,13 +48,10 @@ Here are some ideas to get you started:
 </p>
 </br>
 </br>
-<p>Acompanhe um pouco da minha jornada na Trybe ou veja meu portiólio:</p>
+<p>Acompanhe um pouco da minha jornada na Trybe:</p>
   <span align='center'>
     <a href='https://github.com/Sabrinadelpache/trybeExercises'>
       <img src='https://img.shields.io/badge/-Trybe-brightgreen' />
-    </a>
-    <a href='https://github.com/Sabrinadelpache/Portfolio' />
-     <img src='https://img.shields.io/badge/-Portifólio-white' />
     </a>
   </span>
 </br>
